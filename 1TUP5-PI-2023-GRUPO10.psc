@@ -83,6 +83,7 @@ Proceso  SysacadTPractico
 		FinSi
 	Hasta Que num_opc = 5
 FinProceso
+
 //Si usamos subproceso para la carga de datos el programa empieza a dar MAL todos los valores.
 
 
